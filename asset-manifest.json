@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/makssenuk2002/react-table/static/css/main.c1a278c8.css",
+    "main.js": "/makssenuk2002/react-table/static/js/main.db2d7013.js",
+    "index.html": "/makssenuk2002/react-table/index.html",
+    "main.c1a278c8.css.map": "/makssenuk2002/react-table/static/css/main.c1a278c8.css.map",
+    "main.db2d7013.js.map": "/makssenuk2002/react-table/static/js/main.db2d7013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a278c8.css",
+    "static/js/main.db2d7013.js"
+  ]
+}
